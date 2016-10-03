@@ -6,6 +6,8 @@ this is a DIY tutorial on how to make a home intusion alarm using basic hardware
 It still doesn't support automatic re-activation of device in case power is back. You can contribute to the code.
 Arduino_code.c is the code uploaded to the board and python.py runs on your machine collectiong data sent from the board. 
 
+Video tutorial can viewed on youtube https://youtu.be/tmfcOlQ3AZI
+
 ## Requirements 
 Arduino Uno board
 HC-SR04 ultrasonic sensor
