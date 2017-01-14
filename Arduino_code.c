@@ -8,6 +8,7 @@ pinMode(trig,OUTPUT);
 pinMode(echo,INPUT);
 
 }
+// this is test 
 
 void loop() {
   // put your main code here, to run repeatedly:
